@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:nfc_bluetooth_example/device/device_list/device_list_screen.dart';
 
-class DeviceListScreenButton extends StatelessWidget {
-  const DeviceListScreenButton({Key? key}) : super(key: key);
+class BlueButton extends StatelessWidget {
+  const BlueButton({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

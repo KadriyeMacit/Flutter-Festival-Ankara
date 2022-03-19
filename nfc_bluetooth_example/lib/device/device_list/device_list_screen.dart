@@ -4,6 +4,7 @@ import 'package:nfc_bluetooth_example/colors.dart';
 import 'package:nfc_bluetooth_example/custom_appbar.dart';
 import 'package:nfc_bluetooth_example/device/device_list/widgets/search_button.dart';
 import 'package:nfc_bluetooth_example/device/device_list/widgets/device_item.dart';
+import 'package:nfc_bluetooth_example/device/find_device/find_device_screen.dart';
 
 import '../find_device/find_device_screen.dart';
 
